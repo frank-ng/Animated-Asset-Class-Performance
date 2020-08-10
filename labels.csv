@@ -1,0 +1,38 @@
+Ticker,Name,Type
+XLK,XLK - Technology Select Sector SPDR Fund,U.S. Sectors
+XLC,XLC - Communication Services Select Sector SPDR Fund,U.S. Sectors
+XLY,XLY - Consumer Discretionary Select Sector SPDR Fund,U.S. Sectors
+XLV,XLV - Health Care Select Sector SPDR Fund,U.S. Sectors
+XLB,XLB - Materials Select Sector SPDR Fund,U.S. Sectors
+XLP,XLP - Consumer Staples Select Sector SPDR Fund,U.S. Sectors
+XLU,XLU - Utilities Select Sector SPDR Fund,U.S. Sectors
+XLI,XLI - Industrial Select Sector SPDR Fund,U.S. Sectors
+XLF,XLF - Financial Select Sector SPDR Fund,U.S. Sectors
+XLE,XLE - Energy Select Sector SPDR Fund,U.S. Sectors
+VNQ,VNQ - Vanguard Real Estate Index Fund ETF Shares,U.S. Sectors
+TLT,TLT - iShares 20+ Year Treasury Bond ETF,Treasuries
+IEF,IEF - iShares 7-10 Year Treasury Bond ETF,Treasuries
+SHV,SHV - iShares Short Treasury Bond ETF,Treasuries
+TIP,TIP - iShares TIPS Bond ETF,Treasuries
+LQD,LQD - iShares iBoxx $ Investment Grade Corporate Bond ETF,Corporate Bonds
+HYG,HYG - iShares iBoxx $ High Yield Corporate Bond ETF,Corporate Bonds
+PICB,PICB - Invesco International Corporate Bond ETF,Corporate Bonds
+IGLB,IGLB - iShares Long-Term Corporate Bond ETF,Corporate Bonds
+IGIB,IGIB - iShares Intermediate-Term Corporate Bond ETF,Corporate Bonds
+IWR,IWR - iShares Russell Mid-Cap ETF,U.S. Market Cap
+SPY,SPY - SPDR S&P 500 ETF (Large Cap),U.S. Market Cap
+IWM,IWM - iShares Russell 2000 ETF (Small Cap),U.S. Market Cap
+QUAL,QUAL - iShares Edge MSCI USA Quality Factor ETF,Smart Beta
+MTUM,MTUM - iShares Edge MSCI USA Momentum Factor ETF,Smart Beta
+SPLV,SPLV - Invesco S&P 500 Low Volatility ETF,Smart Beta
+SLYV,SLYV - SPDR S&P 600 Small Cap Value ETF,Smart Beta
+SPYV,SPYV - SPDR Portfolio S&P 500 Value ETF,Smart Beta
+SPYG,SPYG - SPDR Portfolio S&P 500 Growth ETF,Smart Beta
+EEM,EEM - iShares MSCI Emerging Markets ETF,Global Markets
+EFA,EFA - iShares MSCI EAFE ETF,Global Markets
+ACWI,ACWI - iShares MSCI ACWI ETF,Global Markets
+GLD,GLD - SPDR Gold Shares,Commodities
+SLV,SLV - iShares Silver Trust,Commodities
+USO,"USO - United States Oil Fund, LP",Commodities
+DBA,DBA - Invesco DB Agriculture Fund,Commodities
+UNG,"UNG - United States Natural Gas Fund, LP",Commodities
