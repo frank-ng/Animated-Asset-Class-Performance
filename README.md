@@ -6,7 +6,7 @@ asset classes over a time period starting on December 31, 2019 and ending on Aug
 
 ### METHOD OF ANALYSIS ###
 ETF Assets were selected as proxies for the asset classes used in the analysis. ETFs were chosen
-due to their high liquidity, leading to both reliable daily pricing information. Furthermore, the
+due to their high liquidity, leading to reliable daily pricing information. Furthermore, the
 liquid nature of ETFs allows them to be purchased by any investor, institutional or personal.
 
 The information was gathered from Yahoo! Finance, and saved into a csv file. Additional data cleaning
