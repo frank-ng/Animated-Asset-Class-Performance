@@ -13,3 +13,7 @@ The information was gathered from Yahoo! Finance, and saved into a csv file. Add
 was performed using excel, capturing stock splits that were apparently missed in the original dataset.
 
 The chart was created using a Python 3.7.6, Pandas 1.0.5, plotly 4.8.2, and plotly-express 0.4.1.
+
+### RESULTS ###
+The plotly animation created by this analysis can be directly accessed here:
+https://frank-ng.github.io/Animated-Asset-Class-Performance/
